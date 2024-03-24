@@ -1,2 +1,2 @@
 # JDBC
-JDBC using Java
+Connecting MySQL database using Connector/J jar file
