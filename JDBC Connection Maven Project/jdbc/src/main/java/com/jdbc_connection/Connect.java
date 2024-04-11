@@ -9,7 +9,7 @@ public class Connect {
                         //connectior name: databse : address of the database : the target database
     private String url = "jdbc:mysql://localhost:3306/new_database";
     private String user = "root";
-    private String password = "rootp@$$?0RD";
+    private String password = "1234567890";
 
     public Connect(String query) throws Exception{
         // Class.forName("com.mysql.jdbc.Driver"); --> depriciated driver loading
